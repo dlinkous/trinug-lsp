@@ -1,0 +1,2 @@
+One of the slides contains the text "directly or directly".  This should be "directly or indirectly".
+One of the code examples has an "if" statement followed by two blocks of code.  The second block of code should be prefixed with an "else" statement.
