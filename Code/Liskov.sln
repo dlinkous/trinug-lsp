@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Liskov.Ordering", "Liskov.Ordering\Liskov.Ordering.csproj", "{CF383968-09F4-4F8B-8C09-B5D1BE59813E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Liskov.Ordering.Tests", "Liskov.Ordering.Tests\Liskov.Ordering.Tests.csproj", "{2C155D73-020E-4EE8-B8D5-79523AC7A9C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Liskov.UserManagement", "Liskov.UserManagement\Liskov.UserManagement.csproj", "{B220B3A8-6973-4B66-8F7F-4AFE90AC780A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Liskov.Vehicles", "Liskov.Vehicles\Liskov.Vehicles.csproj", "{C91D917F-86C1-460E-97F2-7DD568F8118B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Liskov.Storage", "Liskov.Storage\Liskov.Storage.csproj", "{126156B6-78FF-4FDD-9F1E-F09F1B30037C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liskov.Music", "Liskov.Music\Liskov.Music.csproj", "{AD3478BB-CDDF-4893-9FF4-572521BB91F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF383968-09F4-4F8B-8C09-B5D1BE59813E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF383968-09F4-4F8B-8C09-B5D1BE59813E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF383968-09F4-4F8B-8C09-B5D1BE59813E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF383968-09F4-4F8B-8C09-B5D1BE59813E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C155D73-020E-4EE8-B8D5-79523AC7A9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C155D73-020E-4EE8-B8D5-79523AC7A9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C155D73-020E-4EE8-B8D5-79523AC7A9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C155D73-020E-4EE8-B8D5-79523AC7A9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B220B3A8-6973-4B66-8F7F-4AFE90AC780A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B220B3A8-6973-4B66-8F7F-4AFE90AC780A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B220B3A8-6973-4B66-8F7F-4AFE90AC780A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B220B3A8-6973-4B66-8F7F-4AFE90AC780A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91D917F-86C1-460E-97F2-7DD568F8118B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91D917F-86C1-460E-97F2-7DD568F8118B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91D917F-86C1-460E-97F2-7DD568F8118B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91D917F-86C1-460E-97F2-7DD568F8118B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126156B6-78FF-4FDD-9F1E-F09F1B30037C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126156B6-78FF-4FDD-9F1E-F09F1B30037C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126156B6-78FF-4FDD-9F1E-F09F1B30037C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126156B6-78FF-4FDD-9F1E-F09F1B30037C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3478BB-CDDF-4893-9FF4-572521BB91F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3478BB-CDDF-4893-9FF4-572521BB91F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3478BB-CDDF-4893-9FF4-572521BB91F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3478BB-CDDF-4893-9FF4-572521BB91F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
